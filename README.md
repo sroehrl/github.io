@@ -13,6 +13,9 @@ Participate in [hacktoberfest](https://hacktoberfest.digitalocean.com) with this
 - Add your link to the participants list
 - Create a pull request
 
+### Just to clarify:
+You will need to create a neoan3 project **before** you send a pull request and the link has to point **to** your neoan3 repo or website in order to be approved! There has been some confusion of whether it is enough to add yourself to a list. We do not support "stealing a contribution".
+
 ## Helpful resources:
 - [getting started](http://neoan.us/neoan3docs/getting-started/)
 - [demo video](https://youtu.be/rLC_enc2MAE)
