@@ -2,7 +2,10 @@
 
 ## Personal
 
-Wanna get in touch with me? Visit [neoan.us](https://neoan.us)
+Wanna get in touch with me? 
+
+Visit [neoan.us](https://neoan.us)
+For tutoring, visit [wyzant profile](https://www.wyzant.com/Tutors/learn-more)
 
 ## neoan3 ![logo](https://neoan.us/neoan3docs/asset/neoan-favicon.png)
 
